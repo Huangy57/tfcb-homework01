@@ -18,10 +18,10 @@ This is homework01 for course [Tools for Computational Biology](https://github.c
 
 ## Data
 
-The data table contains columns: data_collection, species, sex, weight. Each row is information collected from the same date. 
+The data table contains columns: date_collection, species, sex, plot, weight_unit_g, calibration, field season. Each row is one observation, and each cell contains individual value. 
 
 Here is an example: 
-| data_collection | species | sex | weight| 
-| --------------- | ------- | --- | ----- |
-| 2014-07-13      | DM      | M   |  40   |
-| 2014_09-10      | DS      | F   |  50   |
+| data_collection | species | sex | plot | weight_unit_g | calibration | field_season| 
+| --------------- | ------- | --- | -----| ------------- | ----- | ----- | 
+| 2013-07-13      | DM      | M   |  4   |  40 | yes | 2013 |
+| 2014_09-10      | DS      | F   |  5   |  50 | no  | 2014 |
