@@ -60,6 +60,8 @@ Organize files into a more consistent structure. Group images into a `images/` d
 
 _Include the link to your `tfcb-homework01` GitHub repository here._
 
+https://github.com/Huangy57/tfcb-homework01
+
 ## Problem 5
 
 **20 points**
@@ -71,6 +73,8 @@ Create a file called `README.md` and populate with Markdown. Demonstrate headers
 Commit this file and publish to your public GitHub repository.
 
 _Include the link to your `README.md` here._
+
+https://github.com/Huangy57/tfcb-homework01/blob/master/README.md
 
 ## Problem 6
 
@@ -85,3 +89,5 @@ Export this as a tab-delimited `.tsv` text file with Unix line endings.
 Commit the modified `.xlsx` file and the `.tsv` file and publish to your public GitHub repository.
 
 _Include the link to your `.tsv` file on GitHub here._
+
+https://github.com/Huangy57/tfcb-homework01/blob/master/data/survey_data.tsv
